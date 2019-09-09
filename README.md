@@ -1,4 +1,6 @@
-# vector graphic editor
+## Vector graphic editor
+
+
 # Запуск: python Main.py
 # Чтобы отменить действие - стрелка влево, повторить - стрелка вправо
 # Автор: Проломова Анастасия
